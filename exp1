@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Meme Gallery</title>
+</head>
+<body>
+
+  <h1 align="center">😂 Meme Gallery</h1>
+  <p align="center">Enjoy a collection of hilarious memes</p>
+
+  <table border="1" cellspacing="10" cellpadding="10" align="center">
+    <tr>
+      <td align="center">
+        <img src="https://fueler.io/storage/canvas/images/9rfjb75MBDC1PztYYujFyAdo6n6LNknfHRbIf6bI.png" alt="Meme 1" width="250"><br>
+        <b>When code finally works...</b>
+      </td>
+      <td align="center">
+        <img src="https://preview.redd.it/developer-debugging-at-3am-with-coffee-cups-stacked-like-v0-bzldvnr2jb6f1.jpeg?auto=webp&s=8a49a7fe669864597df9a4f446e90eb9113e832b" alt="Meme 2" width="250"><br>
+        <b>Me debugging at 3 AM</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUHvDBBgHX24jDucGpoM_eVSYRdkb37YDNKw&s" alt="Meme 3" width="250"><br>
+        <b>Frontend vs Backend</b>
+      </td>
+      <td align="center">
+        <img src="https://img.devrant.com/devrant/rant/r_1920528_5QkEW.jpg" alt="Meme 4" width="250"><br>
+        <b>Stack Overflow saves the day</b>
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>
